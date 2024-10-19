@@ -1,8 +1,8 @@
 # Calculadora
- 
+ <img src="https://github.com/CarlosOC/Calculadora/blob/main/Imagenes/Calculadora.png" alt="Calculadora" style="float:right; width:300px; margin-left:10px;">
 <p>
 Este proyecto es una calculadora gráfica básica desarrollada con <strong>Qt</strong> en C++. Soporta las operaciones aritméticas básicas: suma, resta, multiplicación, división, y cambio de signo (<code>+/-</code>). Además, el proyecto utiliza una hoja de estilos personalizada para mejorar la apariencia de la interfaz gráfica.
-<img src="https://github.com/CarlosOC/Calculadora/blob/main/Imagenes/Calculadora.png" alt="Calculadora" style="float:right; width:300px; margin-left:10px;">
+
 </p>
 
 

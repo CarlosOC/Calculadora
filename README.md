@@ -68,6 +68,7 @@ Botón = para obtener el resultado de la operación actual.
 Botón C para limpiar la pantalla y reiniciar la calculadora.
 
 ### Estructura del proyecto
+```
 calculadora/
 │
 ├── src/                    # Código fuente de la calculadora
@@ -79,7 +80,7 @@ calculadora/
 │   └── stylesheet_03.css   # Hoja de estilos personalizada (CSS)
 │
 └── calculadora-qt.pro      # Archivo del proyecto Qt
-
+```
 ### Contribuciones
 Si deseas contribuir al proyecto, no dudes en realizar un fork y enviar tus pull requests. Las sugerencias y mejoras siempre son bienvenidas.
 Realiza un fork del repositorio.

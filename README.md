@@ -80,10 +80,10 @@ calculadora/
 │   ├── widget.cpp          # Implementación de la calculadora
 │   ├── widget.h            # Definición de la clase de la calculadora
 │   ├── widget.ui           # Interfaz gráfica en formato XML
-│   └── source.qrc          # Archivo de recursos del proyecto
+│   ├── source.qrc          # Archivo de recursos del proyecto
 │   └── QTCalculadora.pro   # Archivo del proyecto Qt
 │
-├── resources/              
+└── resources/              
     └── stylesheet_03.css   # Hoja de estilos personalizada (CSS)
  
 ```

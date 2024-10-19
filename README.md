@@ -81,11 +81,11 @@ calculadora/
 │   ├── widget.h            # Definición de la clase de la calculadora
 │   ├── widget.ui           # Interfaz gráfica en formato XML
 │   └── source.qrc          # Archivo de recursos del proyecto
+│   └── QTCalculadora.pro   # Archivo del proyecto Qt
 │
 ├── resources/              
-│   └── stylesheet_03.css   # Hoja de estilos personalizada (CSS)
-│
-└── QTCalculadora.pro      # Archivo del proyecto Qt
+    └── stylesheet_03.css   # Hoja de estilos personalizada (CSS)
+ 
 ```
 ### Contribuciones
 Si deseas contribuir al proyecto, no dudes en realizar un fork y enviar tus pull requests. Las sugerencias y mejoras siempre son bienvenidas.

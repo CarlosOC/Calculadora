@@ -59,8 +59,11 @@ make
 
 ### Archivos importantes
 widget.h: Archivo de cabecera que define la clase principal Widget.
+
 widget.cpp: Implementación de la lógica de la calculadora.
+
 main.cpp: Punto de entrada de la aplicación.
+
 stylesheet_03.css: Archivo de hoja de estilos personalizado para modificar la apariencia de la calculadora.
 
 ### Uso

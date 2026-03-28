@@ -17,10 +17,6 @@ Este proyecto es una calculadora gráfica básica desarrollada con <strong>Qt</s
 - **Interfaz gráfica** desarrollada con `Qt Widgets` para una experiencia de usuario interactiva.
 - **Validación de división entre 0**, mostrando un mensaje de error.
 
-## Capturas de pantalla
-
-_Incluye aquí capturas de pantalla del proyecto si es posible._
-
 ## Instalación y ejecución
 
 Para ejecutar este proyecto en tu máquina local, sigue los siguientes pasos:
@@ -104,7 +100,7 @@ Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo
 Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto conmigo:
 
 - Correo electrónico: carlosoviedolr@gmail.com
-- Linkedin: [https://www.linkedin.com/in/carlosnicolasoviedocodigoni/]
+- Linkedin: https://www.linkedin.com/in/carlosnicolasoviedocodigoni/
 
 ¡Espero que disfrutes trabajando en estos ejercicios tanto como yo disfruto enseñándolos!
 
